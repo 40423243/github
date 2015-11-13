@@ -36,9 +36,16 @@
 <v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh></v>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
-<v t="leo.20151113150114.1"><vh>@edit 40423243_cp_w9.md</vh></v>
-<v t="leo.20151113150018.1"><vh>@edit 2015cpnote1.md</vh></v>
-<v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
+<v t="leo.20151113152731.1"><vh>@edit 40423243_cp_w1.md</vh></v>
+<v t="leo.20151113152723.1"><vh>@edit 40423243_cp_w3.md</vh></v>
+<v t="leo.20151113152727.1"><vh>@edit 40423243_cp_w2.md</vh></v>
+<v t="leo.20151113152713.1"><vh>@edit 40423243_cp_w4.md</vh></v>
+<v t="leo.20151113152709.1"><vh>@edit 40423243_cp_w5.md</vh></v>
+<v t="leo.20151113152704.1"><vh>@edit 40423243_cp_w6.md</vh></v>
+<v t="leo.20151113152700.1"><vh>@edit 40423243_cp_w7.md</vh></v>
+<v t="leo.20151113152656.1"><vh>@edit 40423243_cp_w8.md</vh></v>
+<v t="leo.20151113152652.1"><vh>@edit 40423243_cp_w9.md</vh></v>
+<v t="leo.20151113152615.1"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
@@ -491,10 +498,10 @@
 </v>
 </v>
 </v>
-<v t="leo.20151113145828.2"><vh>Recovered Nodes</vh>
-<v t="leo.20151113145828.3"><vh>Recovered node "html 標註" from @clean simplest.html</vh>
-<v t="leo.20151113145828.4"><vh>old:html 標註</vh></v>
-<v t="leo.20151113145828.5"><vh>new:html 標註</vh></v>
+<v t="leo.20151113152542.1"><vh>Recovered Nodes</vh>
+<v t="leo.20151113152542.2"><vh>Recovered node "html 標註" from @clean simplest.html</vh>
+<v t="leo.20151113152542.3"><vh>old:html 標註</vh></v>
+<v t="leo.20151113152542.4"><vh>new:html 標註</vh></v>
 </v>
 </v>
 </vnodes>
@@ -2236,8 +2243,8 @@ g.es("pelican 執行完畢")</t>
     &lt;p&gt;線上教材&lt;/p&gt;
     &lt;p&gt;影音教材&lt;/p&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20151113145828.2"></t>
-<t tx="leo.20151113145828.3">(uncached) amd.20150915211351.1
+<t tx="leo.20151113152542.1"></t>
+<t tx="leo.20151113152542.2">(uncached) amd.20150915211351.1
 Diff...
   &lt;!doctype html&gt;
   &lt;html lang="en"&gt;
@@ -2256,7 +2263,7 @@ Diff...
 + &gt;&gt;&gt;&gt;&gt;&gt;&gt; 1365161e5ee1a3e979d94ab7def658cb9564abe7
   @others
 </t>
-<t tx="leo.20151113145828.4">&lt;!doctype html&gt;
+<t tx="leo.20151113152542.3">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
@@ -2273,7 +2280,7 @@ Diff...
 &gt;&gt;&gt;&gt;&gt;&gt;&gt; 1365161e5ee1a3e979d94ab7def658cb9564abe7
 @others
 </t>
-<t tx="leo.20151113145828.5">&lt;!doctype html&gt;
+<t tx="leo.20151113152542.4">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
 &lt;head&gt;
 &lt;meta charset="utf-8"&gt;
