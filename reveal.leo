@@ -45,9 +45,17 @@
 <v t="leo.20151113152700.1"><vh>@edit 40423243_cp_w7.md</vh></v>
 <v t="leo.20151113152656.1"><vh>@edit 40423243_cp_w8.md</vh></v>
 <v t="leo.20151113152652.1"><vh>@edit 40423243_cp_w9.md</vh></v>
-<v t="leo.20151113152615.1"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
+<v t="leo.20151115174517.1"><vh>@edit 40423243_cp_w1_p.html</vh></v>
+<v t="leo.20151115174514.1"><vh>@edit 40423243_cp_w2_p.html</vh></v>
+<v t="leo.20151115174511.1"><vh>@edit 40423243_cp_w3_p.html</vh></v>
+<v t="leo.20151115174508.1"><vh>@edit 40423243_cp_w4_p.html</vh></v>
+<v t="leo.20151115174504.1"><vh>@edit 40423243_cp_w5_p.html</vh></v>
+<v t="leo.20151115174501.1"><vh>@edit 40423243_cp_w6_p.html</vh></v>
+<v t="leo.20151115174458.1"><vh>@edit 40423243_cp_w7_p.html</vh></v>
+<v t="leo.20151115174454.1"><vh>@edit 40423243_cp_w8_p.html</vh></v>
+<v t="leo.20151115174446.1"><vh>@edit 40423243_cp_w9_p.html</vh></v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
 <v t="amd.20150913233943.2"><vh>html</vh>
 <v t="amd.20150913233943.3"><vh>head</vh>
