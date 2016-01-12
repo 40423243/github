@@ -62,7 +62,7 @@
 <v t="leo.20160112235215.1"><vh>@edit 40423243_cp_w14_p.html</vh></v>
 <v t="leo.20160112235220.1"><vh>@edit 40423243_cp_w15_p.html</vh></v>
 <v t="leo.20160112235225.1"><vh>@edit 40423243_cp_w17_p.html</vh></v>
-<v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
+<v t="amd.20150913233943.1" a="E"><vh>@clean cadpbw1.html</vh>
 <v t="amd.20150913233943.2"><vh>html</vh>
 <v t="amd.20150913233943.3"><vh>head</vh>
 <v t="amd.20150913233943.4"><vh>title</vh></v>
@@ -87,7 +87,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915155634.1"><vh>@clean cadpaw1.html</vh>
+<v t="amd.20150915155634.1" a="E"><vh>@clean cadpaw1.html</vh>
 <v t="amd.20150915155634.2"><vh>html 標註</vh>
 <v t="amd.20150915155634.3"><vh>head</vh>
 <v t="amd.20150915155634.4"><vh>title - 標題</vh></v>
@@ -287,7 +287,7 @@
 </v>
 </v>
 </v>
-<v t="ibm.20150918175403.1"><vh>@clean cpw1.html</vh>
+<v t="ibm.20150918175403.1" a="E"><vh>@clean cpw1.html</vh>
 <v t="ibm.20150918175403.2"><vh>檔案說明</vh></v>
 <v t="ibm.20150918175403.3"><vh>html 標註</vh>
 <v t="ibm.20150918175403.4"><vh>body 標註</vh>
@@ -305,7 +305,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
+<v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
 <v t="amd.20150915211351.1"><vh>html 標註</vh>
 <v t="amd.20150915211351.4"><vh>body 標註</vh>
@@ -320,7 +320,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915170743.1"><vh>@clean v31ref.html</vh>
+<v t="amd.20150915170743.1" a="E"><vh>@clean v31ref.html</vh>
 <v t="amd.20150915170743.2"><vh>html 標註</vh>
 <v t="amd.20150915170743.3"><vh>head</vh>
 <v t="amd.20150915170743.4"><vh>title - 標題</vh></v>
@@ -512,7 +512,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151113152542.1"><vh>Recovered Nodes</vh>
+<v t="leo.20151113152542.1" a="E"><vh>Recovered Nodes</vh>
 <v t="leo.20151113152542.2"><vh>Recovered node "html 標註" from @clean simplest.html</vh>
 <v t="leo.20151113152542.3"><vh>old:html 標註</vh></v>
 <v t="leo.20151113152542.4"><vh>new:html 標註</vh></v>
