@@ -10,7 +10,7 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="amd.20150913232631.1"><vh>@settings</vh>
+<v t="amd.20150913232631.1" a="E"><vh>@settings</vh>
 <v t="amd.20150913232631.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="amd.20150913232631.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 <v t="amd.20150915153206.1"><vh>專案說明</vh>
@@ -20,7 +20,7 @@
 <v t="amd.20150919102541.1"><vh>pelican 與 Markdown</vh></v>
 </v>
 </v>
-<v t="amd.20150919102739.1"><vh>專案架構</vh>
+<v t="amd.20150919102739.1" a="E"><vh>專案架構</vh>
 <v t="amd.20150919113520.1"><vh>@edit .gitignore</vh></v>
 <v t="amd.20150919103428.1"><vh>reveal.js 設定</vh></v>
 <v t="amd.20150919103341.1"><vh>Jupyter 設定</vh>
@@ -45,6 +45,12 @@
 <v t="leo.20151113152700.1"><vh>@edit 40423243_cp_w7.md</vh></v>
 <v t="leo.20151113152656.1"><vh>@edit 40423243_cp_w8.md</vh></v>
 <v t="leo.20151113152652.1"><vh>@edit 40423243_cp_w9.md</vh></v>
+<v t="leo.20160113002246.1"><vh>@edit 40423243_cp_w11.md</vh></v>
+<v t="leo.20160113002251.1"><vh>@edit 40423243_cp_w12.md</vh></v>
+<v t="leo.20160113002257.1"><vh>@edit 40423243_cp_w13.md</vh></v>
+<v t="leo.20160113002301.1"><vh>@edit 40423243_cp_w14.md</vh></v>
+<v t="leo.20160113002305.1"><vh>@edit 40423243_cp_w15.md</vh></v>
+<v t="leo.20160113002311.1"><vh>@edit 40423243_cp_w17.md</vh></v>
 </v>
 <v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
 <v t="leo.20151115174517.1"><vh>@edit 40423243_cp_w1_p.html</vh></v>
